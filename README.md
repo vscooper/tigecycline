@@ -1,0 +1,1 @@
+Supplementary data and tables for A. Rokes, A. Santos-Lopez, and V. Cooper "History shapes regulatory and evolutionary responses to tigecycline in strains of Acinetobacter baumannii from the pre- and post-antibiotic eras"
